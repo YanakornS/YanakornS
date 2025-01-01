@@ -1,6 +1,5 @@
-# 👋 สวัสดีครับ! ยินดีต้อนรับสู่โปรไฟล์ของฉัน
-
-![GitHub Banner](https://your-image-link.com)
+### Hi there 👋
+![GitHub Banner][(https://your-image-link.com)](https://tenor.com/view/%E0%B9%81%E0%B8%A1%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-cat-foot-%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B8%A7-cute-gif-16302426)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
